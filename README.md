@@ -91,6 +91,21 @@
 └── docs/                        # 文档与截图
 ```
 
+## 线上地址
+
+| 入口 | 地址 |
+|---|---|
+| 网页端（React 前端） | https://www.wuxianshitu.icu/ |
+| 接口文档（Swagger） | https://www.wuxianshitu.icu/docs （`/redoc` 为可读版） |
+| 正式更新通道 | https://www.wuxianshitu.icu/update/version.json |
+| 公告 | https://www.wuxianshitu.icu/update/notice.json |
+| 测试通道 | https://www.wuxianshitu.icu/test/dorm-sign-2.0.15-beta3-release.apk （目录列表已关闭，只能直取文件） |
+| 反馈管理后台 | https://www.wuxianshitu.icu/admin/ |
+
+客户端固定连 `https://www.wuxianshitu.icu`（`dorm-app/src/api.js` 的 `API_ORIGIN`）；开发期由 Vite 把 `/api`、`/update` 代理到同一后端（可用 `DORM_API` 覆盖），浏览器里始终同源，不产生跨域。
+
+> 换域名需要同步四处，缺一处就会出现「App 能登录但检查不到更新」：`src/api.js` 的 `API_ORIGIN`、`vite.config.js` 与 `vite.qa.config.mjs` 的 `DORM_API` 默认值、`deploy/version.json` 中 APK 的 `url`。
+
 ## 快速开始
 
 **客户端**（需 Node 18+）：
@@ -182,11 +197,13 @@ cd android && .\gradlew.bat assembleRelease --offline
 ## 更新与分发
 
 ```
-/update/version.json        # 正式通道清单
-/update/notice.json         # 公告
-/update/dorm-sign-x.y.z-release.apk
-/test/dorm-sign-x.y.z-betaN-release.apk   # 测试通道，独立目录互不影响
+https://www.wuxianshitu.icu/update/version.json                      # 正式通道清单
+https://www.wuxianshitu.icu/update/notice.json                       # 公告
+https://www.wuxianshitu.icu/update/dorm-sign-x.y.z-release.apk       # 正式包
+https://www.wuxianshitu.icu/test/dorm-sign-x.y.z-betaN-release.apk   # 测试通道，独立目录互不影响
 ```
+
+服务端落盘位置为 `/www/wwwroot/dorm-app-web/`，`update/` 与 `test/` 是两个平级目录，nginx 直接静态托管并对 `/update/` 放行 CORS（壳内容器的 origin 是 `https://localhost`）。
 
 发测试包时只动 `/test/`，不要碰 `version.json`，否则已装用户会被引导升级到未验证版本。网页端静态资源按「只加不删」同步，保留旧 hash 文件以兼容缓存。
 
@@ -210,7 +227,7 @@ node qa/<脚本名>.cjs
 
 ## 版本
 
-当前正式版 `2.0.14`（versionCode 55），测试版 `2.0.15-beta3`（versionCode 58）。
+当前正式版 `2.0.14`（versionCode 55），测试版 `2.0.15-beta3`（versionCode 58，[下载](https://www.wuxianshitu.icu/test/dorm-sign-2.0.15-beta3-release.apk)）。
 变更记录见 `dorm-app/dist-apk/VERSION_HISTORY.md`。
 
 ## 许可
