@@ -1,0 +1,15 @@
+{
+  "first": {
+    "title": "晚寝签到",
+    "mounted": true,
+    "bundle": "https://175.24.230.58/assets/index-rhKfRPDi.js"
+  },
+  "updatePanelAppeared": false,
+  "poppedAtMs": -1,
+  "manifestCalls": [
+    "200 https://175.24.230.58/update/version.json?t=1793898081411",
+    "200 https://175.24.230.58/update/version.json?t=1793898090810"
+  ],
+  "errors": [],
+  "bad": []
+}

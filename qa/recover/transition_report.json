@@ -1,0 +1,52 @@
+[
+  {
+    "name": "登录内容有退场过渡（非硬切）",
+    "ok": true,
+    "detail": "起始 opacity=1/visible；过渡帧 [[51,0.360559],[70,0.239444],[85,0.153721],[102,0.0940821],[118,0.0534726],[135,0.0263665],[151,0.0100661],[168,0.00183472]]"
+  },
+  {
+    "name": "退场结束后登录内容彻底隐藏且不可点",
+    "ok": true,
+    "detail": "末帧 t=435ms opacity=0 scale=0.982"
+  },
+  {
+    "name": "隐藏后 visibility:hidden 且 pointer-events:none",
+    "ok": true,
+    "detail": "visibility=hidden pointer-events=none 该点命中=recover__label"
+  },
+  {
+    "name": "找回流程已完全入场",
+    "ok": true,
+    "detail": "recover opacity=1"
+  },
+  {
+    "name": "第 1 步说明文案已删除",
+    "ok": true,
+    "detail": ".recover__tip 存在=false，字段底 433.7 → 按钮顶 454.5（间距 20.8）"
+  },
+  {
+    "name": "输入触发的 re-render 不重播步骤入场",
+    "ok": true,
+    "detail": "改前 anim=none → 改后 anim=none，最低透明度=1"
+  },
+  {
+    "name": "静置 9s（跨过自动检查更新）画面不闪",
+    "ok": true,
+    "detail": "采样 225 次，最低透明度=1，animation=none"
+  },
+  {
+    "name": "第 2 步说明文案已删除",
+    "ok": true,
+    "detail": "步骤文字底 234 → 首张账号卡顶 252.7（间距 18.7），账号 2 个"
+  },
+  {
+    "name": "退回登录同样有退场（不硬切）",
+    "ok": true,
+    "detail": "过渡帧 [[34,0.569982,\"recoverPageOut\"],[50,0.405937,\"recoverPageOut\"],[68,0.282551,\"recoverPageOut\"],[85,0.192723,\"recoverPageOut\"],[101,0.12718,\"recoverPageOut\"],[119,0.0803446,\"recoverPageOut\"],[134,0.0470593,\"recoverPageOut\"],[151,0.0244017,\"recoverPageOut\"]]，卸载=true"
+  },
+  {
+    "name": "回到登录页后登录内容恢复",
+    "ok": true,
+    "detail": "opacity=1 visibility=visible recover 残留=false"
+  }
+]

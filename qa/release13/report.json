@@ -1,0 +1,16 @@
+{
+  "panelAtMs": 2700,
+  "versionPair": "v2.0.13→v2.0.143.4 MB",
+  "tip": "将打开浏览器下载安装包，下载完成后按提示安装即可。",
+  "btn": "立即更新",
+  "hasProgressBar": false,
+  "clicks": [
+    {
+      "href": "https://175.24.230.58/update/dorm-sign-2.0.13-release.apk",
+      "target": "_system"
+    }
+  ],
+  "sheetClosed": true,
+  "errors": [],
+  "bad": []
+}

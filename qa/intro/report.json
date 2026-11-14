@@ -1,0 +1,51 @@
+{
+  "timeline": {
+    "prime": 150,
+    "notice": 256,
+    "land": 1710,
+    "gapNoticeToLand": 1454,
+    "gapPrimeToLand": 1560
+  },
+  "noticeBeforeLand": true,
+  "introSettledBeforeLand": true,
+  "stableAfterLand": {
+    "heroTop": 1,
+    "heroOpacity": 0,
+    "noticeH": 1,
+    "bodyShift": 1
+  },
+  "stableBeforeLand": {
+    "frames": 81,
+    "heroTop": 2,
+    "heroOpacity": 0.08404500000000004,
+    "noticeH": 6,
+    "bodyShift": 1
+  },
+  "atPrime": {
+    "t": 145,
+    "splash": true,
+    "noticeH": null,
+    "heroTop": 136,
+    "heroOpacity": 1,
+    "hiOpacity": 1,
+    "bodyShift": 0
+  },
+  "atLand": {
+    "t": 1710,
+    "splash": false,
+    "noticeH": 290,
+    "heroTop": 428,
+    "heroOpacity": 1,
+    "hiOpacity": 1,
+    "bodyShift": 292
+  },
+  "last": {
+    "t": 2027,
+    "splash": false,
+    "noticeH": 290,
+    "heroTop": 428,
+    "heroOpacity": 1,
+    "hiOpacity": 1,
+    "bodyShift": 292
+  }
+}

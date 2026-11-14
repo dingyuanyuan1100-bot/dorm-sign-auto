@@ -1,0 +1,72 @@
+# ===== 依赖 =====
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.deps/
+
+# ===== 构建产物 =====
+dorm-app/dist/
+dorm-app/dist-ok/
+dorm-app/dist-lost/
+dorm-app/dist-stale/
+dorm-app/dist-flaky/
+dorm-app/android/build/
+dorm-app/android/app/build/
+dorm-app/android/.gradle/
+dorm-app/android/app/src/main/assets/public/
+dorm-app/android/local.properties
+
+# ===== 安装包 =====
+*.apk
+*.aab
+*.ap_
+dorm-app/dist-apk/*.apk
+
+# ===== 密钥与签名（绝不入库）=====
+.env
+.env.local
+.env.*.local
+dorm-app/android/dorm-release.jks
+*.jks
+*.keystore
+key.properties
+
+# ===== 数据与历史密钥 =====
+dorm-sign-auto/data/
+dorm-sign-auto/legacy/
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# ===== 本地工具缓存 =====
+.chrome-qa/
+.workbuddy/
+.cache/
+.DS_Store
+Thumbs.db
+
+# ===== 验收截图与产物（只保留脚本，产物全部忽略）=====
+qa/**/*.png
+qa/**/*.jpg
+qa/**/*.jpeg
+qa/**/*.webp
+qa/**/*.svg
+qa/**/*.gif
+qa/**/*.mp4
+qa/**/*.webm
+qa/**/*.jsonl
+qa/**/*.txt
+qa/**/*.html
+qa/assets/
+dorm-sign-auto/verify_*_out.txt
+dorm-app/.stale/
+docs/*.tmp
+
+# ===== 编辑器 =====
+.idea/
+.vscode/
+*.iml

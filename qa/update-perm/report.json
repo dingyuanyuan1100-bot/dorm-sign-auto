@@ -1,0 +1,147 @@
+{
+  "idle": {
+    "sheet": true,
+    "btn": "立即更新",
+    "disabled": false,
+    "bar": null,
+    "tip": "在本应用内下载，完成后直接安装。",
+    "warn": false,
+    "dl": 0,
+    "ins": 0
+  },
+  "progress": {
+    "t": 300,
+    "sheet": true,
+    "btn": "下载中 100%",
+    "disabled": true,
+    "bar": 80,
+    "tip": null,
+    "warn": null,
+    "dl": 1,
+    "ins": 1,
+    "progressShot": true
+  },
+  "samples": [
+    {
+      "t": 0,
+      "sheet": true,
+      "btn": "下载中 17%",
+      "disabled": true,
+      "bar": 17,
+      "tip": null,
+      "warn": null,
+      "dl": 1,
+      "ins": 0
+    },
+    {
+      "t": 60,
+      "sheet": true,
+      "btn": "下载中 17%",
+      "disabled": true,
+      "bar": 17,
+      "tip": null,
+      "warn": null,
+      "dl": 1,
+      "ins": 0
+    },
+    {
+      "t": 120,
+      "sheet": true,
+      "btn": "下载中 33%",
+      "disabled": true,
+      "bar": 18,
+      "tip": null,
+      "warn": null,
+      "dl": 1,
+      "ins": 0
+    },
+    {
+      "t": 180,
+      "sheet": true,
+      "btn": "下载中 50%",
+      "disabled": true,
+      "bar": 24,
+      "tip": null,
+      "warn": null,
+      "dl": 1,
+      "ins": 0
+    },
+    {
+      "t": 240,
+      "sheet": true,
+      "btn": "下载中 50%",
+      "disabled": true,
+      "bar": 30,
+      "tip": null,
+      "warn": null,
+      "dl": 1,
+      "ins": 0,
+      "progressShot": true
+    },
+    {
+      "t": 300,
+      "sheet": true,
+      "btn": "下载中 100%",
+      "disabled": true,
+      "bar": 80,
+      "tip": null,
+      "warn": null,
+      "dl": 1,
+      "ins": 1,
+      "progressShot": true
+    },
+    {
+      "t": 360,
+      "sheet": true,
+      "btn": "重试",
+      "disabled": false,
+      "bar": null,
+      "tip": "系统还没允许本应用安装应用，已打开开关页；开启「允许安装未知应用」后返回即可继续。",
+      "warn": true,
+      "dl": 1,
+      "ins": 1
+    }
+  ],
+  "perm": {
+    "sheet": true,
+    "btn": "重试",
+    "disabled": false,
+    "bar": null,
+    "tip": "系统还没允许本应用安装应用，已打开开关页；开启「允许安装未知应用」后返回即可继续。",
+    "warn": true,
+    "dl": 1,
+    "ins": 1
+  },
+  "targetsAfterPerm": 1,
+  "installing": {
+    "sheet": true,
+    "btn": "正在安装…",
+    "disabled": true,
+    "bar": null,
+    "tip": null,
+    "warn": null,
+    "dl": 1,
+    "ins": 2
+  },
+  "afterInstall": {
+    "sheet": false,
+    "btn": null,
+    "disabled": null,
+    "bar": null,
+    "tip": null,
+    "warn": null,
+    "dl": 1,
+    "ins": 2
+  },
+  "undeclared": {
+    "sheet": true,
+    "btn": "重试",
+    "disabled": false,
+    "bar": null,
+    "tip": "应用内下载失败，已切换到网页下载。",
+    "warn": false,
+    "dl": 0,
+    "ins": 0
+  },
+  "targetsAfterUndeclared": 1
+}

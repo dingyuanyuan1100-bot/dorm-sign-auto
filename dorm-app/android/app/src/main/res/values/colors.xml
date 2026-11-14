@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BEF22F</color>
+    <color name="colorPrimaryDark">#1A1A1A</color>
+    <color name="colorAccent">#BEF22F</color>
+    <!-- 启动页背景：与 Web 启动闪屏、drawable/splash 保持同色，消除 Android 12+ 白屏 -->
+    <color name="splash_background">#BEF22F</color>
+</resources>

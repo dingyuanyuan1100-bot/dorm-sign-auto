@@ -1,0 +1,57 @@
+{
+  "fromBackend": {
+    "has": true,
+    "open": "true",
+    "title": "2.0.11：日志更清爽，公告常驻",
+    "note": "这个最早只是当做一个demo放服务器上，没想到半",
+    "noteH": 151,
+    "bar": 320,
+    "seen": "20261105d",
+    "cache": "{\"id\":\"20261105d\",\"date\":\"2026-11-05\",\"t",
+    "noticeUrl": null
+  },
+  "hotUpdate": {
+    "has": true,
+    "open": "true",
+    "title": "热更新测试：这条只改后端",
+    "note": "这条文案完全来自 /update/notice.",
+    "noteH": 78,
+    "bar": 223,
+    "seen": "20261106a",
+    "cache": "{\"id\":\"20261106a\",\"date\":\"2026-11-06\",\"t",
+    "noticeUrl": null
+  },
+  "afterCollapse": {
+    "has": true,
+    "open": "false",
+    "title": "热更新测试：这条只改后端",
+    "note": "这条文案完全来自 /update/notice.",
+    "noteH": 78,
+    "bar": 56,
+    "seen": "20261106a",
+    "cache": "{\"id\":\"20261106a\",\"date\":\"2026-11-06\",\"t",
+    "noticeUrl": null
+  },
+  "backendDown": {
+    "has": true,
+    "open": "false",
+    "title": "热更新测试：这条只改后端",
+    "note": "这条文案完全来自 /update/notice.",
+    "noteH": 78,
+    "bar": 56,
+    "seen": "20261106a",
+    "cache": "{\"id\":\"20261106a\",\"date\":\"2026-11-06\",\"t",
+    "noticeUrl": null
+  },
+  "noNotice": {
+    "has": false,
+    "open": null,
+    "title": null,
+    "note": null,
+    "noteH": 0,
+    "bar": 0,
+    "seen": "",
+    "cache": "",
+    "noticeUrl": null
+  }
+}

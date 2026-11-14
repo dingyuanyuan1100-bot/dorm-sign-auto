@@ -1,0 +1,438 @@
+[
+  {
+    "file": "frame-000.png",
+    "ms": 0
+  },
+  {
+    "file": "frame-001.png",
+    "ms": 69
+  },
+  {
+    "file": "frame-002.png",
+    "ms": 102
+  },
+  {
+    "file": "frame-003.png",
+    "ms": 135
+  },
+  {
+    "file": "frame-004.png",
+    "ms": 152
+  },
+  {
+    "file": "frame-005.png",
+    "ms": 169
+  },
+  {
+    "file": "frame-006.png",
+    "ms": 185
+  },
+  {
+    "file": "frame-007.png",
+    "ms": 202
+  },
+  {
+    "file": "frame-008.png",
+    "ms": 218
+  },
+  {
+    "file": "frame-009.png",
+    "ms": 235
+  },
+  {
+    "file": "frame-010.png",
+    "ms": 252
+  },
+  {
+    "file": "frame-011.png",
+    "ms": 268
+  },
+  {
+    "file": "frame-012.png",
+    "ms": 285
+  },
+  {
+    "file": "frame-013.png",
+    "ms": 302
+  },
+  {
+    "file": "frame-014.png",
+    "ms": 318
+  },
+  {
+    "file": "frame-015.png",
+    "ms": 335
+  },
+  {
+    "file": "frame-016.png",
+    "ms": 352
+  },
+  {
+    "file": "frame-017.png",
+    "ms": 368
+  },
+  {
+    "file": "frame-018.png",
+    "ms": 385
+  },
+  {
+    "file": "frame-019.png",
+    "ms": 402
+  },
+  {
+    "file": "frame-020.png",
+    "ms": 418
+  },
+  {
+    "file": "frame-021.png",
+    "ms": 435
+  },
+  {
+    "file": "frame-022.png",
+    "ms": 452
+  },
+  {
+    "file": "frame-023.png",
+    "ms": 468
+  },
+  {
+    "file": "frame-024.png",
+    "ms": 485
+  },
+  {
+    "file": "frame-025.png",
+    "ms": 502
+  },
+  {
+    "file": "frame-026.png",
+    "ms": 518
+  },
+  {
+    "file": "frame-027.png",
+    "ms": 535
+  },
+  {
+    "file": "frame-028.png",
+    "ms": 552
+  },
+  {
+    "file": "frame-029.png",
+    "ms": 568
+  },
+  {
+    "file": "frame-030.png",
+    "ms": 585
+  },
+  {
+    "file": "frame-031.png",
+    "ms": 602
+  },
+  {
+    "file": "frame-032.png",
+    "ms": 618
+  },
+  {
+    "file": "frame-033.png",
+    "ms": 635
+  },
+  {
+    "file": "frame-034.png",
+    "ms": 652
+  },
+  {
+    "file": "frame-035.png",
+    "ms": 668
+  },
+  {
+    "file": "frame-036.png",
+    "ms": 685
+  },
+  {
+    "file": "frame-037.png",
+    "ms": 702
+  },
+  {
+    "file": "frame-038.png",
+    "ms": 718
+  },
+  {
+    "file": "frame-039.png",
+    "ms": 735
+  },
+  {
+    "file": "frame-040.png",
+    "ms": 752
+  },
+  {
+    "file": "frame-041.png",
+    "ms": 768
+  },
+  {
+    "file": "frame-042.png",
+    "ms": 785
+  },
+  {
+    "file": "frame-043.png",
+    "ms": 802
+  },
+  {
+    "file": "frame-044.png",
+    "ms": 818
+  },
+  {
+    "file": "frame-045.png",
+    "ms": 835
+  },
+  {
+    "file": "frame-046.png",
+    "ms": 852
+  },
+  {
+    "file": "frame-047.png",
+    "ms": 868
+  },
+  {
+    "file": "frame-048.png",
+    "ms": 885
+  },
+  {
+    "file": "frame-049.png",
+    "ms": 902
+  },
+  {
+    "file": "frame-050.png",
+    "ms": 918
+  },
+  {
+    "file": "frame-051.png",
+    "ms": 935
+  },
+  {
+    "file": "frame-052.png",
+    "ms": 952
+  },
+  {
+    "file": "frame-053.png",
+    "ms": 968
+  },
+  {
+    "file": "frame-054.png",
+    "ms": 985
+  },
+  {
+    "file": "frame-055.png",
+    "ms": 1002
+  },
+  {
+    "file": "frame-056.png",
+    "ms": 1018
+  },
+  {
+    "file": "frame-057.png",
+    "ms": 1035
+  },
+  {
+    "file": "frame-058.png",
+    "ms": 1052
+  },
+  {
+    "file": "frame-059.png",
+    "ms": 1068
+  },
+  {
+    "file": "frame-060.png",
+    "ms": 1085
+  },
+  {
+    "file": "frame-061.png",
+    "ms": 1102
+  },
+  {
+    "file": "frame-062.png",
+    "ms": 1118
+  },
+  {
+    "file": "frame-063.png",
+    "ms": 1135
+  },
+  {
+    "file": "frame-064.png",
+    "ms": 1152
+  },
+  {
+    "file": "frame-065.png",
+    "ms": 1168
+  },
+  {
+    "file": "frame-066.png",
+    "ms": 1185
+  },
+  {
+    "file": "frame-067.png",
+    "ms": 1202
+  },
+  {
+    "file": "frame-068.png",
+    "ms": 1218
+  },
+  {
+    "file": "frame-069.png",
+    "ms": 1235
+  },
+  {
+    "file": "frame-070.png",
+    "ms": 1252
+  },
+  {
+    "file": "frame-071.png",
+    "ms": 1268
+  },
+  {
+    "file": "frame-072.png",
+    "ms": 1285
+  },
+  {
+    "file": "frame-073.png",
+    "ms": 1302
+  },
+  {
+    "file": "frame-074.png",
+    "ms": 1318
+  },
+  {
+    "file": "frame-075.png",
+    "ms": 1335
+  },
+  {
+    "file": "frame-076.png",
+    "ms": 1352
+  },
+  {
+    "file": "frame-077.png",
+    "ms": 1368
+  },
+  {
+    "file": "frame-078.png",
+    "ms": 1385
+  },
+  {
+    "file": "frame-079.png",
+    "ms": 1402
+  },
+  {
+    "file": "frame-080.png",
+    "ms": 1418
+  },
+  {
+    "file": "frame-081.png",
+    "ms": 1435
+  },
+  {
+    "file": "frame-082.png",
+    "ms": 1452
+  },
+  {
+    "file": "frame-083.png",
+    "ms": 1468
+  },
+  {
+    "file": "frame-084.png",
+    "ms": 1485
+  },
+  {
+    "file": "frame-085.png",
+    "ms": 1502
+  },
+  {
+    "file": "frame-086.png",
+    "ms": 1518
+  },
+  {
+    "file": "frame-087.png",
+    "ms": 1535
+  },
+  {
+    "file": "frame-088.png",
+    "ms": 1552
+  },
+  {
+    "file": "frame-089.png",
+    "ms": 1568
+  },
+  {
+    "file": "frame-090.png",
+    "ms": 1585
+  },
+  {
+    "file": "frame-091.png",
+    "ms": 1602
+  },
+  {
+    "file": "frame-092.png",
+    "ms": 1618
+  },
+  {
+    "file": "frame-093.png",
+    "ms": 1635
+  },
+  {
+    "file": "frame-094.png",
+    "ms": 1652
+  },
+  {
+    "file": "frame-095.png",
+    "ms": 1668
+  },
+  {
+    "file": "frame-096.png",
+    "ms": 1685
+  },
+  {
+    "file": "frame-097.png",
+    "ms": 1702
+  },
+  {
+    "file": "frame-098.png",
+    "ms": 1718
+  },
+  {
+    "file": "frame-099.png",
+    "ms": 1735
+  },
+  {
+    "file": "frame-100.png",
+    "ms": 1752
+  },
+  {
+    "file": "frame-101.png",
+    "ms": 1768
+  },
+  {
+    "file": "frame-102.png",
+    "ms": 1785
+  },
+  {
+    "file": "frame-103.png",
+    "ms": 1802
+  },
+  {
+    "file": "frame-104.png",
+    "ms": 1818
+  },
+  {
+    "file": "frame-105.png",
+    "ms": 1835
+  },
+  {
+    "file": "frame-106.png",
+    "ms": 1852
+  },
+  {
+    "file": "frame-107.png",
+    "ms": 1868
+  },
+  {
+    "file": "frame-108.png",
+    "ms": 1885
+  }
+]

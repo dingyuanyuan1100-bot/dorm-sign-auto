@@ -1,0 +1,112 @@
+[
+  {
+    "name": "忘记密码入口按压反馈",
+    "ok": true,
+    "detail": ":active scale = 0.96"
+  },
+  {
+    "name": "进入找回流程有整屏转场",
+    "ok": true,
+    "detail": "animationName=recoverPageIn"
+  },
+  {
+    "name": "聚焦有描边反馈",
+    "ok": true,
+    "detail": "field box-shadow = rgb(26, 26, 26) 0px 0px 0px 1.5px inset, rgba(26, 26, 26, 0.07) 0px 6px 16px 0px"
+  },
+  {
+    "name": "按钮按压缩放",
+    "ok": true,
+    "detail": ":active scale = 0.972（规范 0.968–0.978，实测 matrix(0.972, 0, 0, 0.972, 0, 0)）"
+  },
+  {
+    "name": "错误时卡片抖动",
+    "ok": true,
+    "detail": "animationName=shake"
+  },
+  {
+    "name": "抖动真实位移",
+    "ok": true,
+    "detail": "位移幅度 13.52px"
+  },
+  {
+    "name": "错误字段标红",
+    "ok": true,
+    "detail": "data-err=true boxShadow=rgb(229, 72, 77) 0px 0px 0px 1.5px inset"
+  },
+  {
+    "name": "错误提示入场动画",
+    "ok": true,
+    "detail": "animationName=recoverHintIn"
+  },
+  {
+    "name": "输入即清错误态",
+    "ok": true,
+    "detail": "hint=false data-err=false"
+  },
+  {
+    "name": "加载中保留文案 + 转圈",
+    "ok": true,
+    "detail": "text=\"验证中…\" aria-busy=true disabled=true display=flex"
+  },
+  {
+    "name": "前进转场（从右入场）",
+    "ok": true,
+    "detail": "animation=recoverStepIn dir=1 dur=0.4s"
+  },
+  {
+    "name": "勾选回弹",
+    "ok": true,
+    "detail": "animationName=recoverTickPop"
+  },
+  {
+    "name": "单选互斥（仅 1 个选中）",
+    "ok": true,
+    "detail": "data-on 数量 1"
+  },
+  {
+    "name": "后退转场（从左入场）",
+    "ok": true,
+    "detail": "animation=recoverStepBack dir=-1"
+  },
+  {
+    "name": "强度条分段点亮 + 填充动效",
+    "ok": true,
+    "detail": "点亮 3/3 animation=recoverMeterFill"
+  },
+  {
+    "name": "规则逐条转绿",
+    "ok": true,
+    "detail": "rules=true,true,true"
+  },
+  {
+    "name": "规则全满足后按钮回到实色",
+    "ok": true,
+    "detail": "data-ready=true"
+  },
+  {
+    "name": "未就绪按钮只降一档底色、不发灰",
+    "ok": true,
+    "detail": "未就绪 rgb(217, 244, 140) → 就绪 rgb(190, 242, 47)"
+  },
+  {
+    "name": "成功勾选回弹 + 光环",
+    "ok": true,
+    "detail": "done=recoverDonePop ring=recoverDoneRing tick=recoverTickIn"
+  },
+  {
+    "name": "触感反馈（错误 / 步进 / 成功）",
+    "ok": true,
+    "detail": "序列=[[24,46,24],[24,46,24],[9,26,9],8,[9,26,9],[9,26,9],[12,40,22]]"
+  },
+  {
+    "name": "选中单个账号有轻触感",
+    "ok": true,
+    "detail": "序列=[[24,46,24],[24,46,24],[9,26,9],8,[9,26,9],[9,26,9],[12,40,22]]"
+  },
+  {
+    "name": "prefers-reduced-motion 全降级",
+    "ok": true,
+    "detail": "pop=none ring=none transition=0.001s"
+  }
+]

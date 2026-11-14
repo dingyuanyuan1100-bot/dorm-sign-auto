@@ -1,0 +1,23 @@
+{
+  "name": "dorm-sign-app",
+  "private": true,
+  "version": "2.0.15",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5273",
+    "build": "vite build",
+    "preview": "vite preview --port 5273"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.6.10",
+    "@capacitor/app": "^7.1.2",
+    "@capacitor/core": "^7.6.10",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.6.10",
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}

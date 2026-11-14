@@ -1,0 +1,24 @@
+{
+  "first": {
+    "url": "https://175.24.230.58/",
+    "title": "晚寝签到",
+    "rootChildren": 1,
+    "mounted": true,
+    "bundle": "https://175.24.230.58/assets/index-C9cd1K1i.js",
+    "errors": [],
+    "bad": []
+  },
+  "update": {
+    "panelAtMs": 9900,
+    "intercepted": 1,
+    "sheetTitle": "",
+    "hasUpdate": true,
+    "versionText": "v2.0.11→v2.0.123.4 MB",
+    "notes": [
+      "冒烟测试用的假清单，不对外发布"
+    ],
+    "button": "稍后再说",
+    "errors": [],
+    "bad": []
+  }
+}

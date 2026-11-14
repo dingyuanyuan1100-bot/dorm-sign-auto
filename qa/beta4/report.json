@@ -1,0 +1,259 @@
+{
+  "expanded": {
+    "notice": [
+      20,
+      130,
+      350,
+      184
+    ],
+    "open": "true",
+    "bodyH": 128,
+    "innerO": 1,
+    "innerT": "none",
+    "homeT": "matrix(1, 0, 0, 1, 0, 186)",
+    "hero": [
+      20,
+      322,
+      350,
+      196
+    ],
+    "task1": [
+      20,
+      682,
+      350,
+      86
+    ],
+    "task2": [
+      20,
+      682,
+      350,
+      86
+    ],
+    "nav": [
+      51,
+      748,
+      288,
+      72
+    ],
+    "seen": "20261105b",
+    "scrollH": 962,
+    "clientH": 844,
+    "scrollTop": 0,
+    "btns": {
+      "more": false,
+      "x": false,
+      "sheet": false,
+      "ntc": false
+    }
+  },
+  "collapse": [
+    {
+      "at": 40,
+      "h": 97,
+      "io": 0.79,
+      "mt": "matrix(1, 0, 0, 1, 0, 154.943)",
+      "hero": 291
+    },
+    {
+      "at": 110,
+      "h": 33,
+      "io": 0.17,
+      "mt": "matrix(1, 0, 0, 1, 0, 90.7091)",
+      "hero": 227
+    },
+    {
+      "at": 200,
+      "h": 7,
+      "io": 0,
+      "mt": "matrix(1, 0, 0, 1, 0, 65.3789)",
+      "hero": 201
+    },
+    {
+      "at": 300,
+      "h": 0,
+      "io": 0,
+      "mt": "matrix(1, 0, 0, 1, 0, 56.8412)",
+      "hero": 193
+    },
+    {
+      "at": 460,
+      "h": 0,
+      "io": 0,
+      "mt": "matrix(1, 0, 0, 1, 0, 58)",
+      "hero": 194
+    }
+  ],
+  "collapsed": {
+    "notice": [
+      20,
+      130,
+      350,
+      56
+    ],
+    "open": "false",
+    "bodyH": 0,
+    "innerO": 0,
+    "innerT": "matrix(1, 0, 0, 1, 0, -5)",
+    "homeT": "matrix(1, 0, 0, 1, 0, 58)",
+    "hero": [
+      20,
+      194,
+      350,
+      196
+    ],
+    "task1": [
+      20,
+      554,
+      350,
+      86
+    ],
+    "task2": [
+      20,
+      554,
+      350,
+      86
+    ],
+    "nav": [
+      51,
+      748,
+      288,
+      72
+    ],
+    "seen": "20261105b",
+    "scrollH": 844,
+    "clientH": 844,
+    "scrollTop": 0,
+    "btns": {
+      "more": false,
+      "x": false,
+      "sheet": false,
+      "ntc": false
+    }
+  },
+  "expand": [
+    {
+      "at": 40,
+      "h": 45,
+      "io": 0,
+      "mt": "matrix(1, 0, 0, 1, 0, 102.738)",
+      "hero": 239
+    },
+    {
+      "at": 110,
+      "h": 102,
+      "io": 0.59,
+      "mt": "matrix(1, 0, 0, 1, 0, 160.125)",
+      "hero": 296
+    },
+    {
+      "at": 200,
+      "h": 125,
+      "io": 0.93,
+      "mt": "matrix(1, 0, 0, 1, 0, 183.467)",
+      "hero": 319
+    },
+    {
+      "at": 300,
+      "h": 129,
+      "io": 1,
+      "mt": "matrix(1, 0, 0, 1, 0, 187.167)",
+      "hero": 323
+    },
+    {
+      "at": 460,
+      "h": 128,
+      "io": 1,
+      "mt": "matrix(1, 0, 0, 1, 0, 186)",
+      "hero": 322
+    }
+  ],
+  "reExpanded": {
+    "notice": [
+      20,
+      130,
+      350,
+      184
+    ],
+    "open": "true",
+    "bodyH": 128,
+    "innerO": 1,
+    "innerT": "none",
+    "homeT": "matrix(1, 0, 0, 1, 0, 186)",
+    "hero": [
+      20,
+      322,
+      350,
+      196
+    ],
+    "task1": [
+      20,
+      682,
+      350,
+      86
+    ],
+    "task2": [
+      20,
+      682,
+      350,
+      86
+    ],
+    "nav": [
+      51,
+      748,
+      288,
+      72
+    ],
+    "seen": "20261105b",
+    "scrollH": 962,
+    "clientH": 844,
+    "scrollTop": 0,
+    "btns": {
+      "more": false,
+      "x": false,
+      "sheet": false,
+      "ntc": false
+    }
+  },
+  "revisit": {
+    "notice": null,
+    "open": null,
+    "bodyH": null,
+    "innerO": null,
+    "innerT": null,
+    "homeT": "matrix(1, 0, 0, 1, 0, 0)",
+    "hero": [
+      20,
+      136,
+      350,
+      196
+    ],
+    "task1": [
+      20,
+      496,
+      350,
+      86
+    ],
+    "task2": [
+      20,
+      496,
+      350,
+      86
+    ],
+    "nav": [
+      51,
+      748,
+      288,
+      72
+    ],
+    "seen": "20261105b",
+    "scrollH": 844,
+    "clientH": 844,
+    "scrollTop": 0,
+    "btns": {
+      "more": false,
+      "x": false,
+      "sheet": false,
+      "ntc": false
+    }
+  }
+}

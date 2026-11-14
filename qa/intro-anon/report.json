@@ -1,0 +1,44 @@
+{
+  "timeline": {
+    "prime": 127,
+    "notice": 0,
+    "land": 1721,
+    "gapNoticeToLand": 1721,
+    "gapPrimeToLand": 1594
+  },
+  "noticeBeforeLand": false,
+  "introSettledBeforeLand": true,
+  "stableAfterLand": {
+    "heroTop": 1,
+    "heroOpacity": 0,
+    "noticeH": 1,
+    "bodyShift": 1
+  },
+  "atPrime": {
+    "t": 126,
+    "splash": true,
+    "noticeH": null,
+    "heroTop": 136,
+    "heroOpacity": 1,
+    "hiOpacity": 1,
+    "bodyShift": 0
+  },
+  "atLand": {
+    "t": 1721,
+    "splash": false,
+    "noticeH": null,
+    "heroTop": 136,
+    "heroOpacity": 1,
+    "hiOpacity": 1,
+    "bodyShift": 0
+  },
+  "last": {
+    "t": 2021,
+    "splash": false,
+    "noticeH": null,
+    "heroTop": 136,
+    "heroOpacity": 1,
+    "hiOpacity": 1,
+    "bodyShift": 0
+  }
+}
